@@ -7,7 +7,7 @@ setup(
   author = 'JOAQUIN OSORIO VAZQUEZ h-wholf',
   author_email = 'kemalmoto.e5@gmail.com',
   url = 'https://github.com/h-wholf/idev', # use the URL to the github repo
-  download_url = 'https://github.com/h-wholf/idev/tarball/0.1',
+  download_url = 'https://github.com/h-wholf/idev/tarball/0.2',
   keywords = ['TERMUX API', 'FRAMEWORK', 'IDEV'],
   classifiers = [],
 )
