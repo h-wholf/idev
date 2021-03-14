@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: idev
+Version: 0.1
+Summary: Termux framework para la api de termux en pytjon
+Home-page: https://github.com/h-whokf/idev
+Author: joaquin osorio vazquez
+Author-email: kemalmoto.e5@gmail.com
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Development Status :: 0.1 bera
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
